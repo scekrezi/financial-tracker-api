@@ -1,7 +1,6 @@
 # Financial Tracker API
 
- **Work in Progress** 
-- This project is actively being developed.
+ **Work in Progress** - This project is actively being developed.
 
 ## Overview
 The Financial Tracker API is a backend REST API built with Spring Boot that allows users to track personal financial transactions, manage budgets, and analyze spending patterns. 
